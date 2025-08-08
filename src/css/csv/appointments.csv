@@ -1,4 +1,4 @@
-date,hour,reason,observations,payment_method,status,id_pacient,id_doctor,id_specialty,id_location
+date,hour,reason,observations,payment_method,status,id_pacient,id_doctor,id_speciality,id_location
 2025-02-03,10:00,Dolor de cabeza persistente,seguimiento necesario.,efectivo,cancelada,1,1,1,1
 2025-01-08,13:00,Chequeo anual,seguimiento necesario.,transferencia,confirmada,2,1,2,1
 2025-02-14,08:30,Control de medicación,seguimiento necesario.,efectivo,cancelada,3,1,2,2
